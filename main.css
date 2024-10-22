@@ -1,0 +1,21 @@
+header {
+    background-color: #61770f; 
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.left-paragraph {
+    background-color: #cfffff; 
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #000000; 
+    width: 300px; 
+}
+
+.center-paragraph {
+    background-color: #C1E1FF; 
+    padding: 10px;
+    margin: 20px auto;
+    border: 2px solid #000000; 
+    width: 300px; 
+}
